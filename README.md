@@ -4,6 +4,8 @@
 
 Welcome to Cube Runner, an exciting 3D game built with Unity and C#. Navigate through obstacles, control the cube, and reach the goal for a thrilling gaming experience.
 
+![image](https://github.com/jayhonglee/Cube_Runner/assets/57771427/b1844c9b-0119-4b41-9558-f2da1bb35493)
+
 ## Features
 
 - **Intuitive Controls:**

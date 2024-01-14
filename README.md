@@ -1,4 +1,4 @@
-# [Cube Runner]
+# Cube Runner
 
 ## Overview
 
